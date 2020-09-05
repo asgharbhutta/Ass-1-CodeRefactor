@@ -12,19 +12,21 @@ Title was added as: Horiseon - Social Solution Services
 
 Href to search-engine-optimization was fixed, link was broken
 
-.header was changed to use <header> for html semantic code
+.header was changed to use header html semantic code
 
-<div> was changed to <article> in many places to reflect html semantic elements
+div was changed to article in many places to reflect html semantic elements
   
 alt attributes were added to all images for accessibility
+
+most divs were changed to section html semantic code
 
 article classes for the "content" were changed to "article-optimization" to optimize code
 
 article classes for the "benefits-x" were changed to "benefit" to optimize code
 
-.footer was changed to use <footer> for html semantic code
+.footer was changed to use footer html semantic code
 
-<Hx> html elements were organized so they followed best practices h1, h2, h3, h4, h5
+h1-5 html elements were organized so they followed best practices h1, h2, h3, h4, h5
   
 comments were added to css file to let users know what each section of comments do / belong too
 
